@@ -1,0 +1,4 @@
+{"username": "gosho@abv.bg", "password": "123", "products": []}
+{"username": "test@abv.bg", "password": "123", "products": []}
+{"username": "test", "password": "123", "products": [8]}
+{"username": "test2", "password": "123", "products": []}
